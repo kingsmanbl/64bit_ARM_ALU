@@ -1,4 +1,4 @@
-# 64 bit_ARM_ALU
+# 64 bit ARM ALU
 
 ## Project Overview
 This project implements a 64 bit ARM Arithmetic Logic Unit(ALU). The ALU is a critical component in a processor that is responsible for performing arithmetic and logical operations. This ALU can perform 6 operations which are:
